@@ -8,7 +8,7 @@ CORS(app)
 
 markers = {
     '1': 'flask start test1',
-    '2': 'watching test1'
+    '2': 'watching doiken test1'
 }
 
 @app.route('/markers', methods=['GET'])
